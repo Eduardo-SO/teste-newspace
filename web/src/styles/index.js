@@ -23,6 +23,14 @@ export default createGlobalStyle`
     cursor: pointer;
   }
 
+  h1, h2 {
+    line-height: 125%;
+  }
+
+  h3, h4, h5 {
+    line-height: 150%;
+  }
+
   a {
     text-decoration: none;
   }
